@@ -3,7 +3,6 @@
 I am Jason aka Json aka [TheSavageDev][website]
 
 [![Website](https://img.shields.io/website?label=thesavage.dev&style=for-the-badge&url=https%3A%2F%2Fthesavage.dev)](https://thesavage.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/thesavage_dev?color=1da1f2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthesavage_dev&screen_name=thesavage_dev)
 
 ## savage.json
 
@@ -92,7 +91,6 @@ I am Jason aka Json aka [TheSavageDev][website]
 
 [pernix]: https://github.com/thesavagedev/pernix
 [website]: https://thesavage.dev
-[twitter]: https://twitter.com/thesavage_dev
 [youtube]: https://youtube.com/channel/UCfTiHd_dQGpxqGLFyrpOrng
 [instagram]: https://instagram.com/the_savage_dev
 [linkedin]: https://linkedin.com/in/jason-a-savage
