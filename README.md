@@ -48,44 +48,20 @@ I am Jason aka Json aka [TheSavageDev][website]
   };
 ```
 
---- 
-🧰 Toolbox
+## 🧰 Toolbox
 
----
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavasScript" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="100" width="100" />
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" height="100" width="100" />
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavasScript" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" height="100" width="100" />
 
 ## Connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jason%20A%20Savage-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-a-savage/)](https://www.linkedin.com/in/jason-a-savage/)
 [![Email Badge](https://img.shields.io/badge/-jason@thesavage.dev-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jason@thesavage.dev)](mailto:jason@thesavage.dev)
 
----
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesavagedev&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesavagedev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Top Languages
-
-[pernix]: https://github.com/thesavagedev/pernix
 [website]: https://thesavage.dev
-[youtube]: https://youtube.com/channel/UCfTiHd_dQGpxqGLFyrpOrng
-[instagram]: https://instagram.com/the_savage_dev
-[linkedin]: https://linkedin.com/in/jason-a-savage
