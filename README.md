@@ -7,45 +7,45 @@ I am Jason aka Json aka [TheSavageDev][website]
 ## savage.json
 
 ```js
-  const savage = {
-    "firstName": "Jason",
-    "lastName": "Savage",
-    "aliases": ["TheSavageDev", "Json"],
-    "title": "Savage Software Developer",
-    "code": ["React", "Javascript", "HTML/CSS", "RedwoodJS", "Svelte"],
-    "askMeAbout": ["Web Dev", "Soft Skills", "Parenting", "Military Life"],
-    "technologies": {
-      "frontEnd": {
-        "js": ["React", "RedwoodJs", "Gatsby", "Next", "Svelte"],
-        "css": ["CSS3", "SCSS", "Tailwinds"]
-      },
-      "backEnd": {
-        "js": ["Nodejs", "Express"]
-      },
-      "devOps": ["Docker", "Nginx", "k8s"],
-      "databases": ["MongoDB", "PostgreSQL", "MySQL", "sqlite"],
-      "testing": ["Testing Library", "Jest", "Cypress", "Eggplant", "WebDriverIO", "Rspec"]
-      "other": ["Firebase", "Netlify", "Vercel"]
+{
+  "firstName": "Jason",
+  "lastName": "Savage",
+  "aliases": ["TheSavageDev", "Json"],
+  "title": "Savage Software Developer",
+  "code": ["React", "Javascript", "HTML/CSS", "RedwoodJS", "Svelte"],
+  "askMeAbout": ["Web Dev", "Soft Skills", "Parenting", "Military Life"],
+  "technologies": {
+    "frontEnd": {
+      "js": ["React", "RedwoodJs", "Gatsby", "Next", "Svelte"],
+      "css": ["CSS3", "SCSS", "Tailwinds"]
     },
-    "currentFocus": "Building my Magnum Opus. Project Ambrosia",
-    "contact": [
-      {
-        "client": "GitHub",
-        "handle": "TheSavageDev"
-      },
-      {
-        "client": "ProtonMail",
-        "handle": "jason@thesavage.dev"
-      },
-      {
-        "client": "LinkedIn",
-        "handle": "in/jason-a-savage"
-      },
-    ],
-    "employer": "Cerner Corp",
-    "certificates": ["Certified Revenue Cycle Representative"],
-    "funFact": "I have three daughters 6 years old and under"
-  };
+    "backEnd": {
+      "js": ["Nodejs", "Express"]
+    },
+    "devOps": ["Docker", "Nginx", "k8s"],
+    "databases": ["MongoDB", "PostgreSQL", "MySQL", "sqlite"],
+    "testing": ["Testing Library", "Jest", "Cypress", "Eggplant", "WebDriverIO", "Rspec"]
+    "other": ["Firebase", "Netlify", "Vercel"]
+  },
+  "currentFocus": "Building my Magnum Opus. Project Ambrosia",
+  "contact": [
+    {
+      "client": "GitHub",
+      "handle": "TheSavageDev"
+    },
+    {
+      "client": "ProtonMail",
+      "handle": "jason@thesavage.dev"
+    },
+    {
+      "client": "LinkedIn",
+      "handle": "in/jason-a-savage"
+    },
+  ],
+  "employer": "Cerner Corp",
+  "certificates": ["Certified Revenue Cycle Representative"],
+  "funFact": "I have three daughters 6 years old and under"
+};
 ```
 
 ## 🧰 Toolbox
