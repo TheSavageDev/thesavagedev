@@ -11,12 +11,12 @@ I am Jason aka Json aka [TheSavageDev][website]
   "firstName": "Jason",
   "lastName": "Savage",
   "aliases": ["TheSavageDev", "Json"],
-  "title": "Savage Software Developer",
-  "code": ["React", "Javascript", "HTML/CSS", "RedwoodJS", "Svelte"],
+  "title": "Savage Senior Software Developer",
+  "code": ["React", "Javascript", "HTML/CSS", "NextJS", "RedwoodJS", "Svelte"],
   "askMeAbout": ["Web Dev", "Soft Skills", "Parenting", "Military Life"],
   "technologies": {
     "frontEnd": {
-      "js": ["React", "RedwoodJs", "Gatsby", "Next", "Svelte"],
+      "js": ["React", "RedwoodJs", "Gatsby", "NextJS", "Svelte"],
       "css": ["CSS3", "SCSS", "Tailwinds"]
     },
     "backEnd": {
@@ -27,7 +27,6 @@ I am Jason aka Json aka [TheSavageDev][website]
     "testing": ["Testing Library", "Jest", "Cypress", "Eggplant", "WebDriverIO", "Rspec"]
     "other": ["Firebase", "Netlify", "Vercel"]
   },
-  "currentFocus": "Building my Magnum Opus. Project Ambrosia",
   "contact": [
     {
       "client": "GitHub",
@@ -42,14 +41,12 @@ I am Jason aka Json aka [TheSavageDev][website]
       "handle": "in/jason-a-savage"
     },
   ],
-  "employer": "Cerner Corp",
-  "certificates": ["Certified Revenue Cycle Representative"],
-  "funFact": "I have three daughters 6 years old and under"
+  "employer": "RevLogical",
+  "funFact": "I have four daughters 8 years old and under"
 };
 ```
 
 ## 🧰 Toolbox
-
 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavasScript" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="100" width="100" /><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" height="100" width="100" />
 
