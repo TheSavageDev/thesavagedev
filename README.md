@@ -17,14 +17,14 @@ I am Savage aka [TheSavageDev][website]
   "technologies": {
     "frontEnd": {
       "js": ["React", "NextJS", "Remix"],
-      "css": ["CSS3", "SCSS", "TailwindCSS", "MUI]
+      "css": ["CSS3", "SCSS", "TailwindCSS", "MUI"]
     },
     "backEnd": {
       "js": ["Nodejs", "NestJS"]
     },
     "devOps": ["Docker", "Nginx", "GCP", "Terraform", "Firebase"],
     "databases": ["Firestore", "MongoDB", "PostgreSQL", "MySQL"],
-    "testing": ["Testing Library", "Jest", "Cypress", "Playwright"]
+    "testing": ["Testing Library", "Jest", "Cypress", "Playwright"],
     "other": ["Netlify", "Vercel", "Sentry", "DataDog"]
   },
   "contact": [
@@ -39,9 +39,9 @@ I am Savage aka [TheSavageDev][website]
     {
       "client": "LinkedIn",
       "handle": "in/jason-a-savage"
-    },
+    }
   ],
-  "employer": "Segistics",
+  "employer": "Segistics"
 }
 ```
 
