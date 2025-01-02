@@ -1,31 +1,31 @@
 # The Savage Dev
 
-I am Jason aka Json aka [TheSavageDev][website]
+I am Savage aka [TheSavageDev][website]
 
 [![Website](https://img.shields.io/website?label=thesavage.dev&style=for-the-badge&url=https%3A%2F%2Fthesavage.dev)](https://thesavage.dev)
 
 ## savage.json
 
-```js
+```json
 {
   "firstName": "Jason",
   "lastName": "Savage",
-  "aliases": ["TheSavageDev", "Json"],
-  "title": "Engineering Manager",
+  "aliases": ["Savage", "TheSavageDev"],
+  "title": "Staff Engineer -- Team Lead",
   "code": ["React", "Javascript", "HTML/CSS", "NextJS", "NestJS", "Terraform"],
-  "askMeAbout": ["Web Dev", "Soft Skills", "Parenting", "Military Life"],
+  "askMeAbout": ["Web Dev", "Soft Skills", "Military Life"],
   "technologies": {
     "frontEnd": {
       "js": ["React", "NextJS", "Remix"],
-      "css": ["CSS3", "SCSS", "TailwindCSS"]
+      "css": ["CSS3", "SCSS", "TailwindCSS", "MUI]
     },
     "backEnd": {
       "js": ["Nodejs", "NestJS"]
     },
     "devOps": ["Docker", "Nginx", "GCP", "Terraform", "Firebase"],
-    "databases": ["Firestore", "MongoDB", "PostgreSQL", "MySQL", "sqlite"],
+    "databases": ["Firestore", "MongoDB", "PostgreSQL", "MySQL"],
     "testing": ["Testing Library", "Jest", "Cypress", "Playwright"]
-    "other": ["Netlify", "Vercel"]
+    "other": ["Netlify", "Vercel", "Sentry", "DataDog"]
   },
   "contact": [
     {
@@ -42,7 +42,6 @@ I am Jason aka Json aka [TheSavageDev][website]
     },
   ],
   "employer": "Segistics",
-  "funFact": "I have four daughters 10 years old and under"
 };
 ```
 
