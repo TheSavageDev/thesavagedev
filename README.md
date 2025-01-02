@@ -42,7 +42,7 @@ I am Savage aka [TheSavageDev][website]
     },
   ],
   "employer": "Segistics",
-};
+}
 ```
 
 ## 🧰 Toolbox
