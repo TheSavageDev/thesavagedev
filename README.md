@@ -11,37 +11,34 @@ I am Savage aka [TheSavageDev][website]
   "firstName": "Jason",
   "lastName": "Savage",
   "aliases": ["Savage", "TheSavageDev"],
-  "title": "Staff Engineer -- Team Lead",
-  "code": ["React", "Javascript", "HTML/CSS", "NextJS", "NestJS", "Terraform"],
-  "askMeAbout": ["Web Dev", "Soft Skills", "Military Life"],
+  "title": "Staff Software Engineer & Team Lead",
+  "code": ["TypeScript", "JavaScript", "React", "React Native", "Next.js", "NestJS", "Python", "Terraform"],
+  "askMeAbout": ["Web & Mobile Dev", "AI-Assisted Development", "Leading Teams", "Military Life"],
   "technologies": {
     "frontEnd": {
-      "js": ["React", "NextJS", "Remix"],
+      "js": ["React", "Next.js", "Remix", "Zustand", "XState"],
       "css": ["CSS3", "SCSS", "TailwindCSS", "MUI"]
     },
+    "mobile": ["React Native", "Expo", "EAS"],
     "backEnd": {
-      "js": ["Nodejs", "NestJS"]
+      "js": ["Node.js", "NestJS", "GraphQL (Apollo, Relay)", "WebSockets", "Zod"],
+      "python": ["MQTT"]
     },
-    "devOps": ["Docker", "Nginx", "GCP", "Terraform", "Firebase"],
-    "databases": ["Firestore", "MongoDB", "PostgreSQL", "MySQL"],
+    "devOps": ["Docker", "Nginx", "Google Cloud (Cloud Run, Cloud Build)", "Terraform", "Firebase", "Amazon ECS/EKS", "pnpm/Turborepo"],
+    "databases": ["PostgreSQL", "Supabase", "Firestore", "MongoDB", "MySQL"],
+    "payments": ["Stripe", "Stripe Connect", "RevenueCat"],
+    "ai": ["Claude CLI agents", "GitHub Copilot code review", "Cursor", "Gemini"],
     "testing": ["Testing Library", "Jest", "Cypress", "Playwright"],
-    "other": ["Netlify", "Vercel", "Sentry", "DataDog"]
+    "other": ["Netlify", "Vercel", "Sentry", "Crashlytics", "DataDog"]
   },
   "contact": [
-    {
-      "client": "GitHub",
-      "handle": "TheSavageDev"
-    },
-    {
-      "client": "Email",
-      "handle": "thesavage42@icloud.com"
-    },
-    {
-      "client": "LinkedIn",
-      "handle": "in/jason-a-savage"
-    }
+    { "client": "GitHub", "handle": "TheSavageDev" },
+    { "client": "Email", "handle": "thesavage42@icloud.com" },
+    { "client": "LinkedIn", "handle": "in/jason-a-savage" },
+    { "client": "Website", "handle": "thesavage.dev" }
   ],
-  "employer": "Segistics"
+  "employer": "Segistics",
+  "founder": "DugoutDesk (dugoutdesk.app)"
 }
 ```
 
